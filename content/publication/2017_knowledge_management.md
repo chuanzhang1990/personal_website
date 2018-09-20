@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "industrial_park_ontology.png"
-caption = "A hierarchical framework for information modeling and management in EIP"
+image = "knowledge_management.png"
+caption = "Analogy of decision-making between human being and intelligent system"
 
 +++

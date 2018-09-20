@@ -1,5 +1,5 @@
 +++
-title = "The Critical Role of Economic Assumptions in Cost-effectiveness Analysis of Power Plant CO2 Capture and Storage"
+title = "The critical role of economic assumptions in cost-effectiveness analysis of power plant CO2 capture and storage"
 date = 2018-06-18T11:27:35+08:00
 draft = false
 
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "industrial_park_ontology.png"
-caption = "A hierarchical framework for information modeling and management in EIP"
+image = "NGCC_LCOE1.png"
+caption = "Sensitivity of Natural Gas Combined Cycle (NGCC) Levelized Cost of Electricity (LCOE) regarding various factors"
 
 +++
