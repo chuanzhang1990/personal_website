@@ -34,12 +34,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Eco Industrial Park"
+  tag = "Eco Industrial Park"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Energy System"
+  tag = "Energy System"
 
 +++
 
