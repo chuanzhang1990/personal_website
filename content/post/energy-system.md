@@ -1,8 +1,8 @@
 +++
 title = "Energy: the importance of system analysis"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2018-09-20T00:00:00
+lastmod = 2018-09-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Energy System",
-    "Urban Computing",
     "Modeling and Optimization",
-    "Decarbonization"
+    "Sustainability",
+    "Urban Computing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,7 +36,7 @@ weight = 5
 
 # Biography
 
-I am a last-year PhD student in [Nanyang Technological University](http://www.ntu.edu.sg) (NTU) Singapore. I am affiliated to [Cambridge Centre for Advanced Research and Education in Singapore](http://www.cares.cam.ac.uk/) (CARES) as well. My research interest centers on [energy system]({{< ref "post/energy-system.md" >}}), lies in the intersection between modeling, optimization and control. My research is also driven by the [recent advances in machine learning and artificial intelligence together with their impact on energy system design and operation]({{< ref "publication/2017_wes.md" >}}), especially energy use in urban environment. In one sentence, the ultimate goal of my research is harnessing the power of computational intelligence for "smart" and "low-carbon" energy system.
+I am a last-year PhD student in [Nanyang Technological University](http://www.ntu.edu.sg) (NTU) Singapore. I am affiliated to [Cambridge Centre for Advanced Research and Education in Singapore](http://www.cares.cam.ac.uk/) (CARES) as well. My research interest centers on [energy system]({{< ref "/post/energy-system.md" >}}), lies in the intersection between modeling, optimization and control. My research is also driven by the [recent advances in machine learning and artificial intelligence together with their impact on energy system design and operation]({{< ref "/publication/2017_wes.md" >}}), especially energy use in urban environment. In one sentence, the ultimate goal of my research is harnessing the power of computational intelligence for "smart" and "low-carbon" energy system.
 
 If you share common interests, feel free to contact me [here](mailto:czhang026@e.ntu.edu.sg). 
 

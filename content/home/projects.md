@@ -34,12 +34,23 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Eco Industrial Park"
-  tag = "Eco Industrial Park"
-
-[[filter]]
   name = "Energy System"
   tag = "Energy System"
 
+[[filter]]
+  name = "Sustainability"
+  tag = "Sustainability"
+
+[[filter]]
+  name = "Optimization"
+  tag = "Optimization"
+
+[[filter]]
+  name = "Modeling"
+  tag = "Modeling"
+
+[[filter]]
+  name = "Machine learning"
+  tag = "Machine learning"    
 +++
 

@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2015-08-15T00:00:00
+date = 2018-09-15T00:00:00
 
 # Project title.
 title = "Eco Industrial Park"
@@ -9,11 +9,11 @@ title = "Eco Industrial Park"
 summary = "Improving energy system efficiency in eco-industiral park through modelling and optimization"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "jurong_island.jpg"
+image_preview = "jurong_island1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Eco Industrial Park", "Energy System", "Optimization"]
+tags = ["Sustainability", "Energy System", "Optimization"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
