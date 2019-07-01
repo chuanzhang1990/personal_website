@@ -34,23 +34,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Energy System"
-  tag = "Energy System"
+  name = "Deep Learning"
+  tag = "Deep Learning"
 
 [[filter]]
-  name = "Sustainability"
-  tag = "Sustainability"
+  name = "Other"
+  tag = "Demo"
 
-[[filter]]
-  name = "Optimization"
-  tag = "Optimization"
-
-[[filter]]
-  name = "Modeling"
-  tag = "Modeling"
-
-[[filter]]
-  name = "Machine learning"
-  tag = "Machine learning"    
 +++
 

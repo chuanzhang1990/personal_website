@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Chuan Zhang</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Combined Cycle Gas Turbine Model for Heat and Power Dispatch Subject to Grid Constraints</title>
+      <link>/publication/2019_combined_cycle_dispatch/</link>
+      <pubDate>Fri, 08 Feb 2019 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2019_combined_cycle_dispatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology framework towards decentralized information management for eco-industrial parks</title>
+      <link>/publication/2018_industrial_park_ontology/</link>
+      <pubDate>Wed, 18 Jul 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_industrial_park_ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The critical role of economic assumptions in cost-effectiveness analysis of power plant CO2 capture and storage</title>
+      <link>/publication/2018_energy_forum/</link>
+      <pubDate>Mon, 18 Jun 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_energy_forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the feature engineering of building energy data mining</title>
+      <link>/publication/2018_building_feature_engineering/</link>
+      <pubDate>Fri, 18 May 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_building_feature_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge management of eco-industrial park for efficient energy utilization through ontology-based approach</title>
+      <link>/publication/2017_knowledge_management/</link>
+      <pubDate>Wed, 18 Oct 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_knowledge_management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate model based optimization of industrial cogeneration system under real-time energy commodity market</title>
+      <link>/publication/2017_sdewes/</link>
+      <pubDate>Wed, 18 Oct 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_sdewes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-Park Simulator, an intelligent system for information management of eco-industrial parks</title>
+      <link>/publication/2017_icae/</link>
+      <pubDate>Fri, 18 Aug 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_icae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From numerical model to computational intelligence: The digital transition of urban energy system</title>
+      <link>/publication/2017_wes/</link>
+      <pubDate>Tue, 18 Jul 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of industrial waste heat to power in Southeast Asia: an outlook from the perspective of market potentials, opportunities and success catalysts</title>
+      <link>/publication/2017_waste_heat_power_policy/</link>
+      <pubDate>Tue, 18 Jul 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_waste_heat_power_policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel methodology for the design of waste heat recovery network in eco-industrial park using techno-economic analysis and multi-objective optimization</title>
+      <link>/publication/2016_multi_objective_optimization/</link>
+      <pubDate>Sun, 18 Dec 2016 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2016_multi_objective_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards intelligent thermal energy management of eco-industrial park through ontology-based approach</title>
+      <link>/publication/2016_icae/</link>
+      <pubDate>Tue, 18 Oct 2016 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2016_icae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

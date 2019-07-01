@@ -1,0 +1,187 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuan Zhang on Chuan Zhang</title>
+    <link>/</link>
+    <description>Recent content in Chuan Zhang on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 08 Feb 2019 11:27:35 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Combined Cycle Gas Turbine Model for Heat and Power Dispatch Subject to Grid Constraints</title>
+      <link>/publication/2019_combined_cycle_dispatch/</link>
+      <pubDate>Fri, 08 Feb 2019 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2019_combined_cycle_dispatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology development</title>
+      <link>/project/ontology-development/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ontology-development/</guid>
+      <description>&lt;p&gt;In the future scenario of Industrial 4.0 and IoT, information exchange could be totally different from what it is now. The current data integration approaches that need large-scale human intervention will not be suitable in such application contexts. Considering the fact that vast and heterogeneous data exists in future, traditional human-based approaches may need to deal with large amount of information every day, which would result in huge human resources to be consumed. Hence developing ontology based approach that can properly handle the complex and unstructured big data seems to be a promising trend in the future scenario of Industrial 4.0. Ontology is an indispensable ingredient for such applications: ontology contains core concepts as well as the relationships between the concepts within the domain of discourse; also the syntax and semantics of ontology is both human-readable and machine-interpretable to enable effective communication not only between people, but also between machines. In this context, ontology-based approach becomes a perfect candidate due to its abilities in tackling these problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Energy Data Mining</title>
+      <link>/project/building-energy-data-mining/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/building-energy-data-mining/</guid>
+      <description>&lt;p&gt;Understanding the underlying dynamics of building energy consumption is the very firrst step towards energy saving in building sector; as a powerful tool for knowledge discovery, data mining is being applied to this domain more and more frequently. However, most previous researchers focus on model development during the pipeline of data mining, with feature engineering simply being overlooked. To fill this gap, three different feature engineering approaches, namely Exploratory Data Analysis (EDA) as a feature visualization method, Random Forest (RF) as a feature selection method and Principal Component Analysis (PCA) as a feature extraction method, are investigated in the paper. These feature engineering methods are tested with a building energy consumption dataset with 124 features, which describe the building physics, weather condition, and occupant behavior. The 124 features are analyzed and ranked in this paper. It is found that although feature importance depends on specific machine learning model, yet certain features will always dominate the feature space. The outcome of this study favors the usage of effective yet computationally cheap feature engineering methods such as EDA; for other building energy data mining problems, the method proposed by this study has important implications as well because it provides a starting point where effecient feature engineering and machine learning models could be further developed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power Plant Decarbonization</title>
+      <link>/project/power-plant-decarbonization/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/power-plant-decarbonization/</guid>
+      <description>&lt;p&gt;The project presents a novel integrated assessment model by combining bottom-up techno-economic model, metamodel, vintage stock model, and technology learning curve, based on updated aggregated plant-level data. Essentially, this study answers the following questions: What are the practical limits that various techniques could provide in fossil fuel power plant decarbonization (e.g. ton CO2 reduction)? How much are the corresponding change of levelized cost of electricity (e.g. $ per MWh electricity) and CO2 mitigation costs (e.g. $ per ton CO2 reduction)? It is, to the best of our knowledge, the first of its kind fossil power plant decarbonization potential assessment framework under progressive timeline with detailed technology representation and learning curve of individual power plant. It is believed that such approach would bring additional accuracy to the fossil fuel power plant emission accounting, thus shading light on the understanding of how much CO2 emission from fossil fuel power plant are bound to happen over the next decades and the real capability that various decarbonization techniques are able to offer in the stabilization wedges as well as corresponding economic penalties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy: the importance of system analysis</title>
+      <link>/post/energy-system/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/energy-system/</guid>
+      <description>&lt;p&gt;In scientific community, a very question people like to ask each other is “what do you do” or “what is your research about”. Interestingly, every time I said “I work on energy” or something like that, I was in trouble. Depending on the background of your fellow, they may have quite different perspectives on what energy is and what is energy research about: if you are talking to material scientist, they could think energy is all about developing better electrode materials which could result in high-performance batteries; if you are talking to chemist, they might think energy is basically about finding novel catalysts or reaction path which would turn CO2 into fossil fuels (this is exactly my girlfriend does); if you are talking to electric engineers, they might think energy is about resilient power grid which could accommodate more renewable generation; and so on so force. They are all correct in the sense that if they manage to fully unleash their research potential at industrial scale, the energy trilemma could be largely tackled. However, we have to admit that although scientists worldwide have achieved impressive progresses in these domains, the overall landscape of energy conversion and utilization has not changed since industrial revolution.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/sankey_diagram1.png&#34; alt=&#34;sankey_diagram&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sankey diagram of 2016 energy use in U.S. clearly shows that the bulk of global energy consumption comes from fossil fuel, more importantly the energy conversion technologies (technologies converting raw materials into usable energy carrier, such as electricity, for end users) are basically power plant and refineries. Even more, it could be projected that nothing would change in near future, unless disruptive technology breakthrough happens, for example artificial photosynthesis power plant at the scale of current fossil fuel power plant is successfully implemented. In such a context, I personally think it is very important to unleash the potential from intra-system re-innovation, I mean given no fundamental changes of component level performance leap, some priority should be given to system level design and optimization which would make the performance of each single component at their best value. Of course, this is not easy because on one side, the energy system landscape (what technologies are used, how they are designed and operated etc.) has been there for decades with high techno-institutional inertial that are quite difficult to overcome; on the other side, I think this research direction has not been paid much attention compared to other aspects. Many researchers do not give this a shit because they think energy system design and optimization is a super engineered or (so-called applied) research without scientific meanings, sequentially no publication on Nature, Science. This is correct, and this is not correct. This is correct because there is no scientific community that specialized on this topic, energy researchers are from various backgrounds with their own basis, so they only justify the soundness of their basis; this is not correct because more and more people are getting serious about system-level innovation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To be continued &amp;hellip;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eco Industrial Park</title>
+      <link>/project/eco-industrial-park/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/eco-industrial-park/</guid>
+      <description>&lt;p&gt;Based on the concept of industrial symbiosis, which describes the combination of physically or virtually connected businesses within a certain area in a mutually beneficial way, the concept of Eco Industrial Park (EIP) has been brought forward to achieve maximum productivity with minimum cost of resources. Indeed, an EIP could be among the most energy-intensive areas of a country, correspondingly waste heat will also account for a considerable proportion. For instance, it is reported that the Yeosu National Industrial Complex in South Korea consumes 15% of the total energy of the country, while producing 47% of the total industrial waste heat. In EIP the geographical proximity between different users offers new possibilities for WHR; in fact, some waste heat that does not have end-user in one plant may be used in another, therefore WHR network can be formulated. In such cases, the plant supplying heat is defined as source plant, whereas the plant receiving heat is defined as sink plant. Besides, if the waste heat from source plants can be used by neighboring communities, the overall energy efficiency of EIP can be further improved through urban-industrial symbiosis. The optimization of WHR network at EIP level (inter-plant) is quite different from the optimization of WHR at single plant level (intra-plant). Currently the popular method used for WHR optimization in EIP is linear/nonlinear programming based on objective functions and constrains. The current research activity still presents room to improve in the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The multiple criteria decision-making. Various objective functions, including energy efficiency of the EIP, payback period of the WHR network, CO2 emission reduction etc. have been proposed in the literature, as a result different WHR network scenarios can be selected. Yet the attempt to satisfy multiple and possibly conflicting objectives simultaneously is seldom discussed.&lt;/li&gt;
+&lt;li&gt;The analysis of waste heat transportation system. The temperature drop and energy loss during waste heat transportation has been mentioned in some papers, yet the configuration of the waste heat transportation system has not been discussed in detail.&lt;/li&gt;
+&lt;li&gt;The influence of intermittent waste heat on the optimization process. Almost all existing studies assume constant waste heat profile, but this may not be the case for some batch processes. For such processes, the waste heat profile could vary over time, thus influencing the performance of the WHR network; therefore, the intermittency of waste heat also merits to be investigated.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/activity/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/activity/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ontology framework towards decentralized information management for eco-industrial parks</title>
+      <link>/publication/2018_industrial_park_ontology/</link>
+      <pubDate>Wed, 18 Jul 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_industrial_park_ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The critical role of economic assumptions in cost-effectiveness analysis of power plant CO2 capture and storage</title>
+      <link>/publication/2018_energy_forum/</link>
+      <pubDate>Mon, 18 Jun 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_energy_forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the feature engineering of building energy data mining</title>
+      <link>/publication/2018_building_feature_engineering/</link>
+      <pubDate>Fri, 18 May 2018 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2018_building_feature_engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge management of eco-industrial park for efficient energy utilization through ontology-based approach</title>
+      <link>/publication/2017_knowledge_management/</link>
+      <pubDate>Wed, 18 Oct 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_knowledge_management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate model based optimization of industrial cogeneration system under real-time energy commodity market</title>
+      <link>/publication/2017_sdewes/</link>
+      <pubDate>Wed, 18 Oct 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_sdewes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-Park Simulator, an intelligent system for information management of eco-industrial parks</title>
+      <link>/publication/2017_icae/</link>
+      <pubDate>Fri, 18 Aug 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_icae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From numerical model to computational intelligence: The digital transition of urban energy system</title>
+      <link>/publication/2017_wes/</link>
+      <pubDate>Tue, 18 Jul 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_wes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

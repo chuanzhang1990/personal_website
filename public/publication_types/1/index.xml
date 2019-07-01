@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Chuan Zhang</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Chuan Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 18 Oct 2017 11:27:35 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surrogate model based optimization of industrial cogeneration system under real-time energy commodity market</title>
+      <link>/publication/2017_sdewes/</link>
+      <pubDate>Wed, 18 Oct 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_sdewes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J-Park Simulator, an intelligent system for information management of eco-industrial parks</title>
+      <link>/publication/2017_icae/</link>
+      <pubDate>Fri, 18 Aug 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_icae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From numerical model to computational intelligence: The digital transition of urban energy system</title>
+      <link>/publication/2017_wes/</link>
+      <pubDate>Tue, 18 Jul 2017 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2017_wes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards intelligent thermal energy management of eco-industrial park through ontology-based approach</title>
+      <link>/publication/2016_icae/</link>
+      <pubDate>Tue, 18 Oct 2016 11:27:35 +0800</pubDate>
+      
+      <guid>/publication/2016_icae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
